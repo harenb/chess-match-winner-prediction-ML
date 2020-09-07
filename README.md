@@ -1,1 +1,4 @@
-# chess--prediction-machine-learning
+# Chess Match Winner Prediction Algorithm
+This project investigates the degree of accuracy to which a chess game outcome can be determined at various points in the game based on features about the state of the board. In particular, the main interest is in modeling human chess player behavior move-by-move, rather than better understanding optimal strategy. Features about the state of the board that are evident to the average player, such as value of pieces left on the board (using standard chess piece values), play a critical role in planning ahead and predicting move patterns throughout a game and are used in the models in this project.
+
+A research paper summarizing our work and findings can be found under chess_project_paper.pdf, while all the code is contained within the chess_project_code.ipynb file
